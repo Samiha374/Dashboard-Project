@@ -1,0 +1,849 @@
+REF_DATE,Year,GEO,Population centre and rural areas,Class of worker,Industry type,VALUE
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.3
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.5
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.4
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.6
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.1
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.7
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.1
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4.7
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4.8
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.1
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.8
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.5
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",11.3
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10.2
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10.9
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",13.4
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.7
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.6
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",8.2
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.3
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",8
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",8.6
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",12
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,5
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.8
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.5
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.6
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,5.1
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.6
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.7
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.9
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.5
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.6
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.3
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,36.2
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,38.6
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,39.8
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,41.1
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,43.7
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,47.1
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,48.6
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,47.5
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,47.3
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,47.5
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,43.8
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,41.1
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.1
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.9
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.4
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.1
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.5
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,37.6
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,39.3
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,37
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.1
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.4
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.3
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,33.8
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,73.1
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,72.7
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,73
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,74.5
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,73.8
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,73.6
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,72.7
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,75
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,78
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,75.9
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,78.9
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,79.4
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,23.9
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.8
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.1
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,21.7
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,20.8
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,20.9
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,19.3
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,19.5
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,18.8
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,19.2
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,19.8
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,21.2
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",27.6
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",26.5
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",26.3
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.3
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",27.8
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",26.6
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",26.7
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",26.7
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",27.7
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.4
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.7
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",36.9
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.5
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",36.3
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",36.4
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",39.9
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",42
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",40.7
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",39.9
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.2
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.7
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.7
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",40.6
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.3
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.4
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",20.9
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.9
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",20.6
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.5
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.6
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.3
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",17.7
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",17.1
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.3
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16.9
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,37
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,38.4
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,35.3
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,38.2
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,38.3
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,39.2
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,33
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,31.4
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,38.3
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,39.8
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,39.2
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,37.1
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,78.5
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.4
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,79.2
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,80.4
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.6
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.9
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.1
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,82.1
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.3
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,80.3
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.2
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.2
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",13.8
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",13.3
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",12.7
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",14.5
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",16.4
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",15.6
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",18.9
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19.6
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19.7
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",17.4
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",18
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",17.1
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,24.2
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,25.1
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,25.6
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,27.2
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,28.2
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,30.4
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,31.1
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,30.3
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,29.9
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,29.9
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,27.8
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,27.7
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),14.6
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),14.3
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),16.9
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),17.6
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),17.2
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),19.3
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),18.9
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),19
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),17.7
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),18.1
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),19.8
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.8
+2022-01-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,30.2
+2022-02-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,30.2
+2022-03-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.2
+2022-04-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.6
+2022-05-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,32.6
+2022-06-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.3
+2022-07-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.2
+2022-08-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.5
+2022-09-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.6
+2022-10-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.7
+2022-11-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,32.9
+2022-12-01,2022,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,33.8
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.2
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.7
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4.1
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.6
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.6
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.4
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,7
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.7
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.3
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.2
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.6
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4.6
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",11
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10.8
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.3
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.6
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",13.4
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",12.6
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10.2
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",7.1
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",7.5
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",7.7
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",7.1
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.8
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.3
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.2
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,2.9
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.2
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.1
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.2
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,2.8
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,2.7
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,2.6
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.6
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.6
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,40.1
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,38.1
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,36.8
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,36.2
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,38.4
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,38.8
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,39.1
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,39.8
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,38
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,40.2
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,39.9
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,38.4
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.2
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,37.1
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,38.1
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.8
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.9
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,39
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,41.4
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,40.6
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,37.8
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.9
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.8
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.6
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,76.8
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,72.7
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,74.9
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,78.8
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,81.3
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,80.3
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,80
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,79
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,80
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,82.2
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,82.6
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,83.1
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,20.5
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,21.3
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,21.2
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,21.7
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,21
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,21.9
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,23
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.9
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,23.1
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.2
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.1
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29.2
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.8
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29.8
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",30.4
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.9
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",30
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29.9
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29.6
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29.8
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",30.5
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",31.8
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",32.4
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",39
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",39.4
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",39.8
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.8
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",39.7
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",40.5
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",38.1
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",38.3
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",38.8
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",39.4
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",40
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",39.7
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",17.2
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16.7
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16.6
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.2
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.8
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",17.4
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16.7
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.8
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.7
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.4
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",17.7
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",17.8
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,37.9
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,39.6
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,39.9
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,40.2
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,40.6
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,39.6
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,33.3
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,31.9
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,40.7
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,41.8
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,40.5
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,42.1
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,80.5
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.4
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,80
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,80.5
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,79.5
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,80.3
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.1
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,79.6
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,75
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,76.2
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,77.1
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,77.6
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",17.5
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",17.4
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",18.6
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",18.5
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19.3
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19.7
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",21.3
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",23.4
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",20
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",21.9
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19.3
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",17.1
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,27.2
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,27.5
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,28.4
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,30.2
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,30.1
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,31.2
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,32.8
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,32.1
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,30.3
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,30.8
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,30.5
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,31.3
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.6
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.9
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.5
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),18.9
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),19.2
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),21.7
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),22.6
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),22.1
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),21.1
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.8
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),22.1
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),22.7
+2023-01-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,34.3
+2023-02-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,34.2
+2023-03-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,33.8
+2023-04-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,33.4
+2023-05-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,32.4
+2023-06-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,33
+2023-07-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,33.6
+2023-08-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.7
+2023-09-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,33.3
+2023-10-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,34.1
+2023-11-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,33.8
+2023-12-01,2023,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,36.2
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.2
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.8
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.8
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.4
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.5
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.7
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.6
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.5
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.6
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4.1
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.8
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.7
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",12.4
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",15.5
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10.7
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10.9
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10.2
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.4
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.7
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",8.1
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",12.1
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.3
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.9
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.9
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.2
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,5.2
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.7
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.3
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.7
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.4
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.5
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,36.9
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,36.2
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,38
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,39.7
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,41
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,42.1
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,44.7
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,44.2
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,45.2
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,47.1
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,47
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,45.1
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.5
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.8
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,37.2
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,37.6
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.1
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.9
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.4
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.7
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.2
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.5
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.8
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.8
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,82.8
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,82.4
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,80
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,79.1
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,80.2
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,80.5
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,78.3
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,78.9
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,75.2
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,73.4
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,76.7
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,78.6
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.2
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.8
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,21.6
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,21.7
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.7
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.3
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,20.3
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,20.7
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.4
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.2
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,20.7
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,22.4
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",32.8
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",31.2
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",32.3
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",31.9
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",31.3
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",30
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.2
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29.7
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.5
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29.4
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.7
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29.7
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.6
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",38.1
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",36.6
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",36.2
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.3
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",34.2
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",36
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",34.3
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",32.4
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",34.8
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.6
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",36.3
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",17.1
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.2
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16.9
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16.7
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",17.7
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16.8
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",17.3
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16.2
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",15
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",15.8
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",16.9
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,44.2
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,44.6
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,43.3
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,44.4
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,44.9
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,45.2
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,33.8
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,34.4
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,44.6
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,46.2
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,46.8
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,45.4
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,78.4
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,80.7
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.9
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,81.8
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,80.6
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,85.2
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,84.9
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,86.4
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,86.1
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,84.3
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,83.8
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,84.8
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",16.8
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",18.6
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",18.2
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",18.4
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19.5
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19.6
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",22.7
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",23.9
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",21.7
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",21.1
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19.3
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,28.6
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,31
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,31.9
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,34
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,33.6
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,37.6
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,36.9
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,38.9
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,38.2
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,36.1
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,36.1
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,35.2
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),22.6
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),23.2
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),23.7
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),22.7
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),23.5
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),22.3
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),22.7
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),21.6
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),21.9
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),17
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),18.9
+2024-01-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,36.4
+2024-02-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,36
+2024-03-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,37
+2024-04-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,35.7
+2024-05-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,39.1
+2024-06-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,39
+2024-07-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,39.8
+2024-08-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,40.3
+2024-09-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,40.2
+2024-10-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,40
+2024-11-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,39.9
+2024-12-01,2024,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,39.1
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4.2
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,2.6
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.2
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,2.7
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.6
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.9
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4.6
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,4.6
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,3.8
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10.9
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",10.2
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",11.4
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",12.8
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",16.2
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",13.2
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",11.1
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.4
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.9
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.5
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.5
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.4
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.8
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.4
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.1
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.7
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.6
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.6
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,40.4
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,42.9
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,41.3
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,39.4
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,43
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,44.6
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,45
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,47.7
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,47.1
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,33.8
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,32.3
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,33.5
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,33.6
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.4
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.5
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.7
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.1
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,80.5
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,79.8
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,76.7
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,76.9
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,81.1
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,81.7
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,77.4
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,76.4
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,75.7
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,25.1
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,24.5
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,24
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,23.4
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,25.1
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,25.4
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,23.4
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,23.7
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,23.5
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.9
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",28.9
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",30.2
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",30.2
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",30
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",30.9
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",31.2
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",30.9
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",29.6
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",36.1
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",34.7
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",35.1
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",36.4
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.9
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.5
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",38.6
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",37.3
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",38
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",15.4
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",15.4
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.2
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.1
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.8
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.1
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",20.5
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,45.6
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,46.1
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,43.7
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,42.6
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,42
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,40.8
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,34.4
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,33.3
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,40.1
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,84.4
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,83.8
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,84.7
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,85.2
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,85.8
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,86.8
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,87.6
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,86.9
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,86.4
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",16.9
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",18.3
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",17.9
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",17
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",19.3
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",20.6
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",23.4
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",24.9
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",20.7
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,34.5
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,34.6
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,32.8
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,31.8
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,33.8
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,31.9
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,33.2
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,32.1
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,32.6
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),18.5
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),18.6
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.7
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),19.2
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.5
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),21
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.6
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.3
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),20.8
+2025-01-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,38.3
+2025-02-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,37.6
+2025-03-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,38.9
+2025-04-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,38.6
+2025-05-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,39.6
+2025-06-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,39.1
+2025-07-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,39
+2025-08-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,38.6
+2025-09-01,2025,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,38.5
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.7
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.2
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.8
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.1
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.9
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.3
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,5.8
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Agriculture,6.1
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",14.7
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",12.6
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",12.9
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",11.4
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.7
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",9.7
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",8
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Forestry, fishing, mining, quarrying, oil and gas",11.9
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.8
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.8
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,3.8
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,4.5
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,5.6
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,5.3
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,5.4
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Utilities,6.3
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,36.9
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,36.5
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,39
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,38
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,37.8
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,37.7
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,40.6
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Construction,37.6
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,36.1
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,35.3
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.8
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,33.6
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.4
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.5
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.4
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Manufacturing,34.2
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,64.9
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,73.9
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,73.7
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,74.1
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,75
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,75.2
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,74.6
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Wholesale and retail trade,75.7
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,24
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,26.7
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,26.3
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,24.9
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,26.5
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,26.8
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,27.3
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Transportation and warehousing,25.4
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",24.3
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",26.1
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",27.7
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",27
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",25.6
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",26.3
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",26
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Finance, insurance, real estate, rental and leasing",25.5
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",33.8
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",34.4
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",33.4
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",35.5
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",33.2
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",33.9
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",34.5
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Professional, scientific and technical services",35.8
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.5
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",20
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.8
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.4
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.8
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",19.8
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.8
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Business, building and other support services",18.3
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,34.4
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,35.9
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,28.8
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,30.5
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,38
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,38.5
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,40.2
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Educational services,39.3
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,77.3
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,79.2
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,82.4
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,82.1
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,82.2
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,80.5
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,79.8
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Health care and social assistance,78.7
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",12.5
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",15.6
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",15.6
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",16
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",13.8
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",13.1
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",12.9
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers","Information, culture and recreation",12.7
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,25.9
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,30.9
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,32.6
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,29.5
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,29.6
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,29.9
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,25.9
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Accommodation and food services,26.8
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),17.4
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),16.9
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),17.2
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),18.5
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),16.1
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),15.4
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),16.1
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Other services (except public administration),15.1
+2021-05-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,30.4
+2021-06-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.3
+2021-07-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.5
+2021-08-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,32.9
+2021-09-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,31.7
+2021-10-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,29.4
+2021-11-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,28.9
+2021-12-01,2021,Nova Scotia,"Total, all population centres and rural areas","Total employed, all classes of workers",Public administration,30.3
